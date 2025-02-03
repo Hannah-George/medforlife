@@ -83,4 +83,4 @@ Explain what the video demonstrates
 ## Team Contributions
 - [Hannah Elizabeth George]: [Created code]
 - [Angel Alias]: [Design and Implementation]
-- [Sagarika Prasandan]: [Idea]
+- [Sagarika Prasandan]: [Idea ]
